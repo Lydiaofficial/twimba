@@ -152,7 +152,7 @@ function getFeedHtml(){
                     ${tweet.retweets}
                 </span>
                 <span class="tweet-detail">
-                    <i class="fa-solid fa-trash" data-delete="${tweet.uuid}"
+                <i class="fa-regular fa-trash-can" data-delete="${tweet.uuid}"
                     ></i>
                     ${tweet.retweets}
                 </span>
