@@ -90,6 +90,7 @@ button{
     display: flex;
     font-size: 13px;
     justify-content: space-between;
+    gap: 24px;
     width: 160px;
 }
 
